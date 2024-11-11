@@ -1,4 +1,4 @@
-public class SMPS7_11 {
+public class SMPS7Q9 {
 
 	public static void main(String[] args){
 	
