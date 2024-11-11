@@ -1,4 +1,4 @@
-public class SMPS7_6 {
+public class SMPS7Q6 {
 
 	static void average(int[] num) {
 
