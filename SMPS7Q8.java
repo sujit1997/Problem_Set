@@ -1,4 +1,4 @@
-public class SMPS7_8 {
+public class SMPS7Q8 {
 
 	static void repeat(int n){
 		
