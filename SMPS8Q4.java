@@ -12,7 +12,7 @@ class Rectangle {
 			}
 }
 
-public class SMPS8_4 {
+public class SMPS8Q4 {
 
 	public static void main(String[] args){
 
