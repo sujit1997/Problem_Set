@@ -11,7 +11,7 @@ class Circle{
 			}
 
 }
-public class SMPS8_6 {
+public class SMPS8Q6 {
 
 	public static void main(String[] args){
 
