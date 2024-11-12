@@ -13,7 +13,7 @@ class Employee{
  			}
 	}
 
-public class SMPS8_1 {
+public class SMPS8Q1 {
 
 	public static void main(String[] args){
 	System.out.println("This is our custom class");
