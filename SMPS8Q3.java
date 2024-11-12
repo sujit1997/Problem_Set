@@ -12,7 +12,7 @@ class Square{
 		}
 }
 
-public class SMPS8_3 {
+public class SMPS8Q3 {
 
 	public static void main(String[] args){
 
