@@ -14,7 +14,7 @@ class cellphone{
 
 	}
 
-public class SMPS8_2 {
+public class SMPS8Q2 {
 
 	public static void main(String[] args){
 	
