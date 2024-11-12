@@ -8,7 +8,7 @@ class Rockstar{
 			System.out.println("running");
 			}
 		}
-public class SMPS8_5{
+public class SMPS8Q5{
 
 	public static void main(String[] args){
 	
